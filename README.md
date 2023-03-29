@@ -1,20 +1,21 @@
-# Hangman Game Project
+# WebProgramming_project1
+Hangman Game Project
 
-# Summary Report
+Summary Report
 
-# Introduction
+Introduction
 In this project, we worked to build a hangman game with four levels of difficulties, and for 
 every word to be guessed, a clue pops up on the screen so that it is easier for the user to guess 
 the correct words. This game also has user login and signup requirements.
 Aditya Rajani and Milin Gujrati did this project.
 
-# Overview
+Overview
 This game was built using mainly three languages of web development, HTML, CSS, and PHP. 
 We used HTML, CSS, and PHP for the front end; we used PHP and MySQL for the back end. The 
 goal of this project was to make a web-based game, and we chose Hangman as the ideal game
 because it is something we played a lot in high school as a kid. 
 
-# Risk and challenges
+Risk and challenges
 The first and foremost challenge we, as team members, had had standard free time together to 
 sit and discuss the overall structure of the project.
 While writing the code for the actual game and game functions, we had several bugs to solve, 
@@ -22,7 +23,7 @@ like the clue not popping, Hangman not building, and the restart button not work
 The login and registration page issues related to the MySQL database were not responding 
 several times and showed an incorrect password, though the password was correct. 
 
-# Project Timeline
+Project Timeline
 This project was built in four weeks
 
 Week 1
